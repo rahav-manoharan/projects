@@ -10,4 +10,4 @@ Finally, a Recency-Frequency-Monetary value ([RFM](https://www.investopedia.com/
 
 ![RFM clustering](.\images\rfm_cluster_straight.png)
 
-Details on each cluster grouping are available on the presentation [here](Group%205_Presentation.pptx)
+Details on each cluster grouping are available on the presentation [here](Final_Presentation.pptx)
