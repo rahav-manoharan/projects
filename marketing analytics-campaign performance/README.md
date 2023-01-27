@@ -8,4 +8,6 @@ Finally, a Recency-Frequency-Monetary value ([RFM](https://www.investopedia.com/
 
 ![RFM clustering](.\images\rfm_cluster_top.png)
 
-In this project, we aim to understand the economic impact of COVID-19 by modelling the performance of SENSEX (which is a [market-weighted](https://en.wikipedia.org/wiki/Capitalization-weighted_index "Weighted-index") index of the Bombay Stock Exchange). To do this, we first select a [functional form](https://cmapskm.ihmc.us/rid=1052458916298_870839951_7777/Functional+form#:~:text=A%20functional%20form%20refers%20to,and%20regressors%20or%20explanatory%20variables.) and collect data on those variables. We then understand correlation and variable importantce to eliminate unnecessary variables and simplify the functional form of the regression equation.
+![RFM clustering](.\images\rfm_cluster_straight.png)
+
+Details on each cluster grouping are available on the presentation [here](Group%205_Presentation.pptx)
