@@ -1,2 +1,2 @@
-# projects
-A collection of the shareable parts of projects done by me, either as a part of coursework or otherwise.
+# Projects
+A repository of some of the academic projects that I was a part of during the two years of my MBA @ Indian Institute of Management Bangalore.
