@@ -10,4 +10,4 @@ Finally, a Recency-Frequency-Monetary value ([RFM](https://www.investopedia.com/
 
 ![RFM clustering](.\images\rfm_cluster_straight.png)
 
-Each cluster was then assigned a persona. details of which are available in the presentation [here](Final_Presentation.pptx)
+Each cluster was then assigned a persona, details of which are available in the presentation [here](Final_Presentation.pptx)
